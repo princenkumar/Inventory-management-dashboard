@@ -56,7 +56,7 @@ The Excel workbook contains the following sheets:
 - Profit and loss calculations
 - Stock analysis by product categories
 
-  ## Dasboard
+  ## Dasboard View
     <img width="1206" height="507" alt="Inventory Mangemant" src="https://github.com/user-attachments/assets/550f1219-bb4c-4479-855f-583a3bad321f" />
 
 ## 🔧 Key Features
