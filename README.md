@@ -57,7 +57,7 @@ The Excel workbook contains the following sheets:
 - Stock analysis by product categories
 
   ## Dasboard
-    "D:\=DOCUMENTS=\=EXCEL=\Project File\Inventory Mangemant.png"
+    <img width="1206" height="507" alt="Inventory Mangemant" src="https://github.com/user-attachments/assets/550f1219-bb4c-4479-855f-583a3bad321f" />
 
 ## 🔧 Key Features
 
