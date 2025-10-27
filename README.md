@@ -57,7 +57,7 @@ The Excel workbook contains the following sheets:
 - Stock analysis by product categories
 
   ## Dasboard
-    https://github.com/princenkumar/Inventory-management-dashboard/commit/9a05f8e9255601a45a0fc5685e26357ee10eb5e4
+    "D:\=DOCUMENTS=\=EXCEL=\Project File\Inventory Mangemant.png"
 
 ## 🔧 Key Features
 
