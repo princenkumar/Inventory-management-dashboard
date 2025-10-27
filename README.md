@@ -1,4 +1,4 @@
-Inventory Management System - Excel Dashboard
+Inventory Management System - Excel Dashboard br
 📊 System Overview
 A comprehensive Excel-based inventory management solution designed for electronic goods retailers. This dashboard provides real-time inventory tracking, automated reordering alerts, and business performance analytics through an integrated set of worksheets.
 
