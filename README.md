@@ -56,6 +56,9 @@ The Excel workbook contains the following sheets:
 - Profit and loss calculations
 - Stock analysis by product categories
 
+  ## Dasboard
+    https://github.com/princenkumar/Inventory-management-dashboard/commit/9a05f8e9255601a45a0fc5685e26357ee10eb5e4
+
 ## 🔧 Key Features
 
 - **Automated Notifications**: Low stock alerts with vendor contact information
